@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-chess
+torch
+numpy
+python-multipart
